@@ -19,12 +19,12 @@ Aplikasi terbagi dalam 3 tab utama:
 
 
 ## Struktur Project
-
+```
 country-segmentation-kmeans-streamlit/
 ├── app.py                                  # Kode utama aplikasi Streamlit
 ├── world_bank_development_indicators.csv   # Dataset contoh (World Bank)
 └── README.md
-
+```
 ## Dataset
 Dataset harus berformat CSV dan minimal memiliki kolom berikut:
 KolomKeterangancountryNama negaradateTanggal/tahun data (format tanggal)GDP_current_USGDP negara (US$ saat ini) — wajib ada agar clustering bisa jalan
