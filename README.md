@@ -5,11 +5,6 @@ Aplikasi web interaktif berbasis Streamlit untuk mengelompokkan (clustering) neg
 1. Upload CSV mandiri — pengguna mengunggah dataset World Bank sendiri lewat sidebar.
 2. Pemilihan tahun analisis dan jumlah klaster (K) secara interaktif (slider K=2–8).
 3. Pembersihan & imputasi data otomatis:
-    -Membersihkan nama kolom dari spasi tersembunyi.
-    -Membuang negara yang kehilangan >50% fitur pada tahun terpilih.
-    -Membuang kolom indikator yang 100% kosong untuk tahun tersebut.
-    -Mengisi (impute) nilai yang hilang dengan median tahun berjalan.
-    -Validasi jumlah data minimum terhadap nilai K yang dipilih.
 4. Standarisasi data dengan StandardScaler sebelum clustering.
 
 ## Tampilan Aplikasi
