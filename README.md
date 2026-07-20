@@ -13,6 +13,10 @@ Aplikasi web interaktif berbasis Streamlit untuk mengelompokkan (clustering) neg
 4. Standarisasi data dengan StandardScaler sebelum clustering.
 
 ## Tampilan Aplikasi
+
+![image alt](https://github.com/jhontravoltaa76-lab/country-segmentation-kmeans-streamlit/blob/4aba4547052e21a2bdb3a155ede5e01f872f0c01/Tampilann.png)
+
+
 Aplikasi terbagi dalam 3 tab utama:
   - Hasil Segmentasi — peta sebaran negara (PCA), pencarian negara, dan daftar negara per segmen.
   - Evaluasi & Profil Klaster — profil rata-rata fitur per klaster, grafik Elbow dan Silhouette Score.
