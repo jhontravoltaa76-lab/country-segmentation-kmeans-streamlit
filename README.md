@@ -65,9 +65,9 @@ Setelah berjalan, buka browser ke alamat yang ditampilkan (biasanya http://local
   -Jelajahi hasil segmentasi di ketiga tab yang tersedia.
 
 ## Teknologi yang Digunakan
-  -Streamlit — antarmuka web interaktif
-  -Pandas — manipulasi data
-  -Scikit-learn — StandardScaler, KMeans, PCA, SimpleImputer, silhouette_score
-  -Plotly Express — visualisasi interaktif
-  -Matplotlib — grafik Elbow & Silhouette Score
-  -NumPy — komputasi numerik
+  -Streamlit
+  -Pandas
+  -Scikit-learn
+  -Plotly Express
+  -Matplotlib
+  -NumPy
