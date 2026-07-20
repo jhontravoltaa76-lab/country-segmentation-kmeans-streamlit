@@ -1,4 +1,4 @@
-Aplikasi Segmentasi Negara (K-Means & PCA)
+# Aplikasi Segmentasi Negara (K-Means & PCA)
 Aplikasi web interaktif berbasis Streamlit untuk mengelompokkan (clustering) negara-negara di dunia berdasarkan indikator pembangunan dan ekonomi dari World Bank Development Indicators, menggunakan algoritma K-Means dan divisualisasikan dengan PCA (Principal Component Analysis).
 
 Fitur Utama
