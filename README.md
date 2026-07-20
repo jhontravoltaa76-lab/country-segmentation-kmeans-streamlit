@@ -59,15 +59,15 @@ Dataset contoh (world_bank_development_indicators.csv) sudah disertakan di repo 
       - streamlit run app.py
 
 Setelah berjalan, buka browser ke alamat yang ditampilkan (biasanya http://localhost:8501), lalu:
-  -Upload file CSV dataset World Bank melalui sidebar.
-  -Pilih tahun analisis yang diinginkan.
-  -Atur jumlah klaster (K) menggunakan slider.
-  -Jelajahi hasil segmentasi di ketiga tab yang tersedia.
+  - Upload file CSV dataset World Bank melalui sidebar.
+  - Pilih tahun analisis yang diinginkan.
+  - Atur jumlah klaster (K) menggunakan slider.
+  - Jelajahi hasil segmentasi di ketiga tab yang tersedia.
 
 ## Teknologi yang Digunakan
-  -Streamlit
-  -Pandas
-  -Scikit-learn
-  -Plotly Express
-  -Matplotlib
-  -NumPy
+  - Streamlit
+  - Pandas
+  - Scikit-learn
+  - Plotly Express
+  - Matplotlib
+  - NumPy
